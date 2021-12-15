@@ -1,0 +1,35 @@
+3 Tier Architecture
+ Web servers
+App servers
+
+Release:
+1 complete cycle of SDLC is a release
+
+Future Release:Adding new Feature/Functionality 
+Bug Release:Bug Fixes,we are going to fix the defects
+ 
+Even if want to make a simple change of changing contact us page number.
+Even this also should go through SDLC
+
+CRUD operations 
+Create,Read,Update,Delete
+
+4 features:60 days
+1-2 Weeks.
+1 feature for each release:
+We will deliver every 15 days.
+
+Agil always tells us to plan a small/shorter release.
+
+chance to test it faster. 
+Rapid feedback from client.
+We take feedback and make changes.
+
+Applications were not performing as expected after release
+Lot of deploys in the release timelines.
+1.Lack of efficient Testing
+2.Complete lack of operations/high Avilability.
+3.Efficient Integration of Application was not happening.
+
+
+
